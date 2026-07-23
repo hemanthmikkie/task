@@ -1,0 +1,348 @@
+{
+  "mobiles": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 15",
+      "price": 79999
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy S24",
+      "price": 74999
+    },
+    {
+      "id": 3,
+      "brand": "OnePlus",
+      "model": "12",
+      "price": 64999
+    },
+    {
+      "id": 4,
+      "brand": "Xiaomi",
+      "model": "14",
+      "price": 49999
+    },
+    {
+      "id": 5,
+      "brand": "Realme",
+      "model": "GT 6",
+      "price": 35999
+    },
+    {
+      "id": 6,
+      "brand": "Vivo",
+      "model": "V30",
+      "price": 32999
+    },
+    {
+      "id": 7,
+      "brand": "Oppo",
+      "model": "Reno 12",
+      "price": 30999
+    },
+    {
+      "id": 8,
+      "brand": "Google",
+      "model": "Pixel 8",
+      "price": 68999
+    },
+    {
+      "id": 9,
+      "brand": "Motorola",
+      "model": "Edge 50",
+      "price": 28999
+    },
+    {
+      "id": 10,
+      "brand": "Nothing",
+      "model": "Phone 2",
+      "price": 42999
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "brand": "IQOO",
+      "model": "Neo 10",
+      "price": 39999,
+      "id": 17
+    },
+    {
+      "id": 19,
+      "brand": "IQOO",
+      "model": "Neo 10",
+      "price": 39999
+    },
+    {
+      "id": 20,
+      "brand": "IQOO",
+      "model": "z7 pro",
+      "price": 39999
+    }
+  ],
+  "laptops": [
+    {
+      "id": 1,
+      "brand": "Dell",
+      "model": "Inspiron 15",
+      "price": 65000
+    },
+    {
+      "id": 2,
+      "brand": "HP",
+      "model": "Pavilion",
+      "price": 62000
+    },
+    {
+      "id": 3,
+      "brand": "Lenovo",
+      "model": "IdeaPad Slim 5",
+      "price": 59000
+    },
+    {
+      "id": 4,
+      "brand": "Apple",
+      "model": "MacBook Air M3",
+      "price": 119900
+    },
+    {
+      "id": 5,
+      "brand": "Asus",
+      "model": "Vivobook 15",
+      "price": 55000
+    },
+    {
+      "id": 6,
+      "brand": "Acer",
+      "model": "Aspire 7",
+      "price": 61000
+    },
+    {
+      "id": 7,
+      "brand": "MSI",
+      "model": "Modern 14",
+      "price": 58000
+    },
+    {
+      "id": 8,
+      "brand": "Samsung",
+      "model": "Galaxy Book4",
+      "price": 74000
+    },
+    {
+      "id": 9,
+      "brand": "LG",
+      "model": "Gram",
+      "price": 98000
+    },
+    {
+      "id": 10,
+      "brand": "Huawei",
+      "model": "MateBook D15",
+      "price": 67000
+    }
+  ],
+  "tablets": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPad Air",
+      "price": 59999
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy Tab S9",
+      "price": 72999
+    },
+    {
+      "id": 3,
+      "brand": "Lenovo",
+      "model": "Tab P12",
+      "price": 32999
+    },
+    {
+      "id": 4,
+      "brand": "Xiaomi",
+      "model": "Pad 6",
+      "price": 28999
+    },
+    {
+      "id": 5,
+      "brand": "Realme",
+      "model": "Pad X",
+      "price": 21999
+    },
+    {
+      "id": 6,
+      "brand": "Honor",
+      "model": "Pad 9",
+      "price": 24999
+    },
+    {
+      "id": 7,
+      "brand": "OnePlus",
+      "model": "Pad",
+      "price": 37999
+    },
+    {
+      "id": 8,
+      "brand": "Nokia",
+      "model": "T21",
+      "price": 18999
+    },
+    {
+      "id": 9,
+      "brand": "Huawei",
+      "model": "MatePad",
+      "price": 30999
+    },
+    {
+      "id": 10,
+      "brand": "Amazon",
+      "model": "Fire HD 10",
+      "price": 14999
+    }
+  ],
+  "headphones": [
+    {
+      "id": 1,
+      "brand": "Sony",
+      "model": "WH-1000XM5",
+      "price": 29999
+    },
+    {
+      "id": 2,
+      "brand": "Apple",
+      "model": "AirPods Pro 2",
+      "price": 24999
+    },
+    {
+      "id": 3,
+      "brand": "Boat",
+      "model": "Rockerz 550",
+      "price": 2499
+    },
+    {
+      "id": 4,
+      "brand": "JBL",
+      "model": "Tune 760NC",
+      "price": 6999
+    },
+    {
+      "id": 5,
+      "brand": "Realme",
+      "model": "Buds Air 6",
+      "price": 3999
+    },
+    {
+      "id": 6,
+      "brand": "OnePlus",
+      "model": "Buds Pro 3",
+      "price": 8999
+    },
+    {
+      "id": 7,
+      "brand": "Samsung",
+      "model": "Galaxy Buds 3",
+      "price": 10999
+    },
+    {
+      "id": 8,
+      "brand": "Noise",
+      "model": "Air Buds",
+      "price": 1999
+    },
+    {
+      "id": 9,
+      "brand": "Boult",
+      "model": "Audio X1",
+      "price": 1499
+    },
+    {
+      "id": 10,
+      "brand": "Nothing",
+      "model": "Ear 2",
+      "price": 9999
+    }
+  ],
+  "smartwatches": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "Watch Series 9",
+      "price": 41999
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy Watch 7",
+      "price": 29999
+    },
+    {
+      "id": 3,
+      "brand": "Noise",
+      "model": "ColorFit Pro 5",
+      "price": 4999
+    },
+    {
+      "id": 4,
+      "brand": "Boat",
+      "model": "Wave Sigma",
+      "price": 2499
+    },
+    {
+      "id": 5,
+      "brand": "Fire-Boltt",
+      "model": "Phoenix",
+      "price": 1999
+    },
+    {
+      "id": 6,
+      "brand": "Amazfit",
+      "model": "GTR 4",
+      "price": 16999
+    },
+    {
+      "id": 7,
+      "brand": "Fitbit",
+      "model": "Versa 4",
+      "price": 18999
+    },
+    {
+      "id": 8,
+      "brand": "Garmin",
+      "model": "Venu 3",
+      "price": 38999
+    },
+    {
+      "id": 9,
+      "brand": "Huawei",
+      "model": "Watch GT 4",
+      "price": 15999
+    },
+    {
+      "id": 10,
+      "brand": "Realme",
+      "model": "Watch S2",
+      "price": 5999
+    }
+  ]
+}
